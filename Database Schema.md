@@ -117,3 +117,12 @@ status
 - **grades.subject_id → subjects.id**
 - **coursesubjects.course_id → courses.id**
 - **coursesubjects.subject_id → subjects.id**
+
+## Constraints
+The database uses constraints to ensure data integrity:
+
+- **Primary Keys (PK)** in all tables
+- **Foreign Keys (FK)** for relationships
+- **NOT NULL** constraints for required fields
+- **CHECK constraints** for valid values (example: grades range 0–100)
+- **UNIQUE constraints** for unique fields (example: subject_name)
