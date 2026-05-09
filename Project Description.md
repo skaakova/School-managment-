@@ -122,6 +122,6 @@ ORDER BY t.full_name;
 
 ## 🎥 Demo Video
 
-> 📹 [Watch Demo on YouTube](#) ← *add your link here*
+> 📹 [Watch Demo on YouTube](https://youtu.be/5uFKuZ48U2Q?si=bTShzM7XdqzAPu2m) 
 
 ---
