@@ -123,6 +123,8 @@ ORDER BY t.full_name;
 ## 🎥 Demo Video
 
 > 📹 [Watch Demo on YouTube](https://youtu.be/5uFKuZ48U2Q?si=bTShzM7XdqzAPu2m)
+>
+> > 📹 [Watch Demo of queries YouTube](https://youtu.be/xO0C1rIo50M?si=SZV7U6MBv-_WRdUc)
 
 ## 🎥 Feedback 
 
