@@ -126,6 +126,6 @@ ORDER BY t.full_name;
 
 ## 🎥 Feedback 
 
-> 📹 [Watch Demo on YouTube](https://youtube.com/shorts/MKBV5utlDvg?si=oi-sQasKCU6aPZPt) 
+> 📹 [Watch Feedback on YouTube](https://youtube.com/shorts/MKBV5utlDvg?si=oi-sQasKCU6aPZPt) 
 
 ---
