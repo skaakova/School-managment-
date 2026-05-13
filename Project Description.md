@@ -128,6 +128,8 @@ ORDER BY t.full_name;
 
 ## 🎥 Feedback 
 
-> 📹 [Watch Feedback on YouTube](https://youtube.com/shorts/MKBV5utlDvg?si=oi-sQasKCU6aPZPt) 
+> 📹 [Watch Feedback on YouTube](https://youtube.com/shorts/MKBV5utlDvg?si=oi-sQasKCU6aPZPt)
+>
+> https://canva.link/hsztm3ukmiojiuj
 
 ---
